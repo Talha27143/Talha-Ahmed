@@ -1,4 +1,4 @@
-# Question-Generation
+# Question Generation
 An automated system that can take as input a text and produce as output questions for assessing a reader’s knowledge of the information in the
 text. The system uses a combination of manually encoded transformation rules on each sentence in a paragraph.
 
